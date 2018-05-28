@@ -29,3 +29,4 @@ var destructivelyRemoveElementFromBeginningOfArray = function(array) {
   array.shift();
   return array;
 }
+
